@@ -20,8 +20,6 @@ Feature Scaling: Introduce the concept of standardization using the StandardScal
 
 Model Building: Implement three distinct machine learning algorithms - Logistic Regression, SVM, and Decision Tree - to classify iris flower species.
 
-Hyperparameter Tuning: Utilize GridSearchCV to fine-tune hyperparameters for each algorithm, enhancing their performance.
-
 Model Evaluation: Evaluate the models using confusion matrices, providing a deeper understanding of their predictive capabilities.
 
 # Getting Started
